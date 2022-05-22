@@ -3,7 +3,7 @@
 
 ### _About me_
 
-🌱 &nbsp;I’m currently learning Next, Tailwind
+🌱 &nbsp;I’m currently learning Next with ChakraUI
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
