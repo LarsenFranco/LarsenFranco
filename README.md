@@ -19,7 +19,7 @@ _I'm Franco, Fullstack developer from General Roca, Río Negro, Argentina._
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 
-🔗 &nbsp;**Connect with me**
+🔗 &nbsp;**Connect with me**  
 <p align="left">
 
 <a href="https://twitter.com/larsenfranco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
