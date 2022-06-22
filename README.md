@@ -1,5 +1,8 @@
-#  Hey! Nice to see you. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+<img src="https://res.cloudinary.com/larsendevs/image/upload/v1655759466/logo_ifb06a.png" width="100px" />
 
+[My portfolio](https://larsen.vercel.app/)
+
+#  Hey! Nice to see you.
 ## _About me_
 
 Welcome to my page!
