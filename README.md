@@ -1,10 +1,10 @@
-#  Hey! Nice to see you. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-## I'm Franco and I love to code♥
+#  Hey! Nice to see you. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
 ## _About me_
 
 Welcome to my page!
-I'm Franco, Fullstack developer from Geneal Roca, Río Negro, Argentina. 
+_I'm Franco, Fullstack developer from General Roca, Río Negro, Argentina._
+ <br/> <br/>
 🌱 &nbsp;I’m currently learning MONGO DB. 
 
 ### _🚀 Some Tools I Use_
