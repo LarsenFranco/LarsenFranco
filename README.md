@@ -6,9 +6,9 @@
 ## _About me_
 
 Welcome to my page!
-_I'm Franco, Fullstack developer from General Roca, Río Negro, Argentina._
+_I'm Franco, from General Roca, Río Negro, Argentina._
  <br/> <br/>
-🌱 &nbsp;I’m currently learning MONGO DB. 
+💻 Software developer at Mercado Libre.🇦🇷
 
 ### _🚀 Some Tools I Use_
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
