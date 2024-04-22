@@ -4,7 +4,7 @@
 ## _About me_
 
 Welcome to my page!
-_I'm Franco, from General Roca, Río Negro, Argentina._
+_I'm Franco, from Río Negro, Argentina._
  <br/> <br/>
 💻 Software developer at Mercado Libre.🇦🇷
 
